@@ -3,7 +3,7 @@
 此py文件的：......
 '''
 # print('hello 世界')
-"""
+
 # 变量：
 print(1+2+3+4+5)
 print((1+2+3+4+5)*5/2)
@@ -19,7 +19,7 @@ msg = '今天python周末班2期开班了....gfdjggkfdlgjdklgjsdfkl'
 
 m1 = '今天python周末班2期开班了....gfdjggkfdlgjdklgjsdfkl' + '6:30'
 m1 = msg + '6:30'
-
+'''
 4e = 'alex个人简历'  # False
 q_ = 111  # True
 __ = 67  # False
@@ -27,7 +27,7 @@ _ = 567  # True
 3# = 45  # False
 _3 = 66  # True
 tr8_= 33 # True
-
+'''
 
 age1 = 12
 age2 = age1
@@ -40,7 +40,7 @@ age1 = 12
 age1 = 13
 print(age1)
 age1 = 14
-"""
+
 
 # 常量：
 '''
